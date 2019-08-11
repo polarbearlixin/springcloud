@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="consumerfegin" />
+        <module name="springcloudapi" />
+        <module name="provider" />
+        <module name="provider03" />
+        <module name="provider02" />
+        <module name="providerhystrixdashboard" />
+        <module name="providerhystrix" />
+        <module name="server02" />
+        <module name="server" />
+        <module name="zuul" />
+        <module name="consumer" />
+        <module name="server03" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="consumer" target="11" />
+      <module name="consumerfegin" target="11" />
+      <module name="provider" target="11" />
+      <module name="provider02" target="11" />
+      <module name="provider03" target="11" />
+      <module name="providerhystrix" target="11" />
+      <module name="providerhystrixdashboard" target="11" />
+      <module name="server" target="11" />
+      <module name="server02" target="11" />
+      <module name="server03" target="11" />
+      <module name="springcloud01" target="11" />
+      <module name="springcloudapi" target="11" />
+      <module name="zuul" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="consumer" options="-parameters" />
+      <module name="consumerfegin" options="-parameters" />
+      <module name="provider" options="-parameters" />
+      <module name="provider02" options="-parameters" />
+      <module name="provider03" options="-parameters" />
+      <module name="providerhystrix" options="-parameters" />
+      <module name="providerhystrixdashboard" options="-parameters" />
+      <module name="server" options="-parameters" />
+      <module name="server02" options="-parameters" />
+      <module name="server03" options="-parameters" />
+      <module name="springcloud01" options="-parameters" />
+      <module name="springcloudapi" options="-parameters" />
+      <module name="zuul" options="-parameters" />
+    </option>
+  </component>
+</project>

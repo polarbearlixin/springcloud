@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48032689-00a1-4a1b-ad90-518e1313010b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Tag Library Descriptor" />
+        <option value="spring-beans.schema" />
+        <option value="XML" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1P2Nw0oEq6DQHPKQEChu9g0Vf8q" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/providerhystrix/src/main/java/springcloud/providerhystrix" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="springcloud.providerhystrix.mapper" />
+      <recent name="springcloud.providerhystrix.controller" />
+      <recent name="springcloud.consumerfegin.controller" />
+      <recent name="springcloud.provider02.mapper" />
+      <recent name="springcloud.provider02.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\springcloud\springcloud01\providerhystrix\src\main\java\springcloud\providerhystrix" />
+      <recent name="D:\springcloud\springcloud01\provider03\src\main\java\springcloud\provider03" />
+      <recent name="D:\springcloud\springcloud01\provider02\src\main\java\springcloud\provider02" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ZuulApplication">
+    <configuration name="ConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="springcloud.consumer.ConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerfeginApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="consumerfegin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="springcloud.consumerfegin.ConsumerfeginApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Provider02Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="provider02" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="springcloud.provider02.Provider02Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Provider03Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="provider03" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="springcloud.provider03.Provider03Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="springcloud.provider.ProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderhystrixApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="providerhystrix" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="springcloud.providerhystrix.ProviderhystrixApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderhystrixdashboardApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="providerhystrixdashboard" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="springcloud.providerhystrixdashboard.ProviderhystrixdashboardApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server02Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="server02" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="springcloud.server02.Server02Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server03Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="server03" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="springcloud.server03.Server03Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="springcloud.server.ServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringcloudapiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springcloudapi" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="springcloud.springcloudapi.SpringcloudapiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zuul" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="springcloud.zuul.ZuulApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ConsumerApplication" />
+      <item itemvalue="Spring Boot.ConsumerfeginApplication" />
+      <item itemvalue="Spring Boot.Provider02Application" />
+      <item itemvalue="Spring Boot.Provider03Application" />
+      <item itemvalue="Spring Boot.ProviderApplication" />
+      <item itemvalue="Spring Boot.Server02Application" />
+      <item itemvalue="Spring Boot.Server03Application" />
+      <item itemvalue="Spring Boot.ServerApplication" />
+      <item itemvalue="Spring Boot.SpringcloudapiApplication" />
+      <item itemvalue="Spring Boot.ProviderhystrixApplication" />
+      <item itemvalue="Spring Boot.ProviderhystrixdashboardApplication" />
+      <item itemvalue="Spring Boot.ZuulApplication" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@35539508" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48032689-00a1-4a1b-ad90-518e1313010b" name="Default Changelist" comment="" />
+      <created>1565068465287</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565068465287</updated>
+      <workItem from="1565068469381" duration="329000" />
+      <workItem from="1565068826593" duration="20935000" />
+      <workItem from="1565142441765" duration="20690000" />
+      <workItem from="1565226761608" duration="23111000" />
+      <workItem from="1565316536070" duration="3439000" />
+      <workItem from="1565334946586" duration="8115000" />
+      <workItem from="1565399681569" duration="673000" />
+      <workItem from="1565441135119" duration="10285000" />
+      <workItem from="1565491727460" duration="8767000" />
+      <workItem from="1565509775622" duration="6530000" />
+      <workItem from="1565528846864" duration="7342000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

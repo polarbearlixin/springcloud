@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/consumer/consumer.iml" filepath="$PROJECT_DIR$/consumer/consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumerfegin/consumerfegin.iml" filepath="$PROJECT_DIR$/consumerfegin/consumerfegin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider/provider.iml" filepath="$PROJECT_DIR$/provider/provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider02/provider02.iml" filepath="$PROJECT_DIR$/provider02/provider02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider03/provider03.iml" filepath="$PROJECT_DIR$/provider03/provider03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/providerhystrix/providerhystrix.iml" filepath="$PROJECT_DIR$/providerhystrix/providerhystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/providerhystrixdashboard/providerhystrixdashboard.iml" filepath="$PROJECT_DIR$/providerhystrixdashboard/providerhystrixdashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server/server.iml" filepath="$PROJECT_DIR$/server/server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server02/server02.iml" filepath="$PROJECT_DIR$/server02/server02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server03/server03.iml" filepath="$PROJECT_DIR$/server03/server03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud01.iml" filepath="$PROJECT_DIR$/springcloud01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudapi/springcloudapi.iml" filepath="$PROJECT_DIR$/springcloudapi/springcloudapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul/zuul.iml" filepath="$PROJECT_DIR$/zuul/zuul.iml" />
+    </modules>
+  </component>
+</project>
